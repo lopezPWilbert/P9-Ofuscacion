@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P9 Ofuscacion", "P9 Ofuscacion\P9 Ofuscacion.pyproj", "{612268EE-C748-4827-AF2C-D4B71C9C8648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612268EE-C748-4827-AF2C-D4B71C9C8648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612268EE-C748-4827-AF2C-D4B71C9C8648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5243C2E5-CD2E-4B2E-808E-D62767DCF294}
+	EndGlobalSection
+EndGlobal
