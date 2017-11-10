@@ -40,3 +40,15 @@ while True :
   if 97 - 97: oO0o0ooO0 - IIII / OOooOOo - oO0o0ooO0
 # dd678faae9ac167bc83abf78e5cb2f3f0688d3a3
 
+
+'''
+
+PASOS para ofuscar:
+git clone https://github.com/astrand/pyobfuscate.git
+cd pyobfuscate/
+python setup.py install
+
+pyobfuscate example.py
+
+'''
+
